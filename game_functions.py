@@ -477,10 +477,3 @@ def check_aliens_bottom(ai_settings, stats, screen, sb, ship, aliens, bullets):
             # Treat this the same as if the ship got hit.
             ship_hit(ai_settings, stats, screen, sb, ship, aliens, bullets)
             break
-
-
-# In[ ]:
-
-
-
-

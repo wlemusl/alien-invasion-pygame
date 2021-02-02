@@ -1,1 +1,4 @@
 # alien-invasion-game
+This is a project developed with Pygame intending to create a simple 2D videogame. The name of the videogame is alien invasion. It is based on the first hands-on project in "Python Crash Course" book by Eric Matthes. The core of my code follows the lines of code shown in the book, however, my main contributions to this project are: (1) create an option to pause and to continue playing, (2) add a help button that shows the instructions by pressing it, (3) allow the spaceship to move vertically besides moving only horizontally, (4) show an explosion visualization every time the spaceship crashes with an alien or an alien reaches the earth, (5) allow the videogame to record the high-score, (6) show "GAME OVER" in the screen when losing the current game, and (7) change some of the original rules to make it more entertaining and dynamic for the user.
+
+This repository contains three ipynb files and three csv files.

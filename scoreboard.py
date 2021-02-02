@@ -87,8 +87,5 @@ class Scoreboard():
         self.ships.draw(self.screen)
 
 
-# In[ ]:
-
-
 
 

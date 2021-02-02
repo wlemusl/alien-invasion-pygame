@@ -1,1 +1,1 @@
-# alien-invasion-pygame
+# alien-invasion-game

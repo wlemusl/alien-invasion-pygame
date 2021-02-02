@@ -64,8 +64,5 @@ class Ship(Sprite):
         self.bottom = self.screen_rect.bottom
 
 
-# In[ ]:
-
-
 
 

@@ -22,4 +22,4 @@ The only folder is:
 1. "images" - This folder has three images: 
 (a) alien.bmp - This image was extracted from <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 (b) ship.bmp - This image is available in the book's resources through https://www.nostarch.com/pythoncrashcourse/. 
-(c) boom.png - This image is 
+(c) boom.png - This image is a modified version of the original one that was extracted from https://elements.envato.com/.

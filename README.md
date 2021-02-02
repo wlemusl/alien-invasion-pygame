@@ -19,6 +19,6 @@ The only txt file is:
 1. "ai_high_score.txt" - This file records only the high-score and every time it is beaten, it is updated.
 
 The only folder is "images" and it has three images:
-1. alien.bmp - This image was extracted from <div>Icons made by <ahref="https://www.freepik.com"title="Freepik">Freepik</a>from<ahref="https://www.flaticon.com/"title="Flaticon">www.flaticon.com</a></div>
-2. ship.bmp - This image is available in the book's resources through https://www.nostarch.com/pythoncrashcourse/. 
-3. boom.png - This image is a modified version of the original one that was extracted from https://elements.envato.com/.
+1. alien.bmp - This image was extracted from <div>Icons made by <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+2. boom.png - This image is a modified version of the original one that was extracted from https://elements.envato.com/.
+3. ship.bmp - This image is available in the book's resources through https://www.nostarch.com/pythoncrashcourse/. 

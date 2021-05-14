@@ -16,7 +16,7 @@ The ten py files are:
 10. "settings.py" - It contains the Settings class with all the attributes to specify the screen, alien, bullet, ship, and general settings. Besides, it contains the methods to initialize the dynamic settings and change them while advancing to harder levels.
 
 The only txt file is:
-1. "ai_high_score.txt" - This file records only the high-score and every time it is beaten, it is updated.
+1. "ai_high_score.txt" - This file records only the high-score, and every time it is beaten, it is updated.
 
 The only folder is "images" and it has three images:
 1. alien.bmp - This image was extracted from <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>

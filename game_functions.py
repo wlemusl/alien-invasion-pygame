@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 # Import required libraries
@@ -14,7 +14,7 @@ from random import randrange
 from alien import Alien
 
 
-# In[2]:
+# In[ ]:
 
 
 def check_events(ai_settings, screen, stats, sb, play_button, ship, aliens, bullets, help_button):
@@ -35,7 +35,7 @@ def check_events(ai_settings, screen, stats, sb, play_button, ship, aliens, bull
                               bullets, mouse_x, mouse_y)
 
 
-# In[3]:
+# In[ ]:
 
 
 def check_keydown_events(event, ai_settings, screen, ship, bullets):
